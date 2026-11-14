@@ -95,6 +95,7 @@
 | MinecraftCapes | https://minecraftcapes.net | 免费自定义披风 |
 | Ely.by | https://ely.by | 第三方皮肤账户系统，支持离线登录 |
 | Planet Minecraft（皮肤） | https://www.planetminecraft.com/skins | 社区皮肤下载 |
+| Minecraft Skin Lab | https://minecraftskinlab.com | 免费皮肤工具：下载 64×64 皮肤模板、查询玩家皮肤、3D 预览 |
 
 ## 服务器相关
 
