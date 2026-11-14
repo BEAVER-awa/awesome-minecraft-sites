@@ -116,6 +116,7 @@
 | MCStacker | https://mcstacker.net | /give、/summon 等命令在线生成器 |
 | mcfunction 文档（Wiki） | https://minecraft.wiki/w/Function_(Java) | 命令/函数开发参考 |
 | Amidst | https://github.com/toolbox4minecraft/amidst | 种子地图预览（老版本） |
+| ChunkSeeds | https://chunkseeds.com | 在线种子地图：Java / 基岩版生物群系与结构坐标，带可检索种子库 |
 | Block Models | https://www.blockmodels.com | 方块模型分享与下载 |
 
 ## 开发者资源
